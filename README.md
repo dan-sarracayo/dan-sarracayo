@@ -1,17 +1,15 @@
-## Hi there 👋
+### Hi there 👋 I'm Dan!
 
-### I'm Dan.
+👴 **Senior Full Stack Engineer**
 
-#### 👴 Senior Full Stack Engineer
+😁 **(he/him)**
 
-#### 😁 (he/him)
+📍 **Ipswich, Suffolk, UK**
 
-#### 📍 Ipswich, Suffolk, UK
-
-### 🚀 Working at Invision360 by day.
+🚀 **Working at Invision360 by day.**
 Changing people's lives using the power of software to improve the quality of EHCPs and PEPs.
 
-### 🌖 Working on some projects by night.
+🌖 **Working on some projects by night.**
 I love coming up with new ideas and just seeing where they go! Coming soon;
 - A portfolio redesign and personal-rebrand.
 - A progressive pomodoro timer webapp.
