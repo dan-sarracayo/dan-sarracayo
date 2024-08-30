@@ -14,7 +14,7 @@ Changing people's lives using the power of software to improve the quality of EH
 
 I love coming up with new ideas and just seeing where they go! Coming soon;
 - A portfolio redesign and personal-rebrand.
-- A progressive pomodoro timer webapp.
+- A fancy minimal messaging app using sockets!
 
 <!--
 **dan-sarracayo/dan-sarracayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
