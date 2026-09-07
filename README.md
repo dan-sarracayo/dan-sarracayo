@@ -2,17 +2,15 @@
 
 🔗 **[relvas.me](https://relvas.me)**
 
-👴 **Senior Full Stack Engineer**
+👴 **Senior Full Stack Developer**
 
 ℹ️ **(he/him)**
 
 📍 **Suffolk, UK**
 
-🚀 **Working at [Invision360](https://github.com/Invision360) by day.**
+🚀 **Looking forward to my next adventure**
 
-Changing young people's lives using the power of software and machine learning to improve the quality of EHCPs and PEPs.
-
-🌖 **Working on projects by night.**
+📐 **Working on projects by night.**
 
 I love coming up with new ideas and just seeing where they go! Coming soon;
 - ✅ A portfolio redesign and personal-rebrand.
